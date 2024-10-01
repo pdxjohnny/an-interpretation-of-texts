@@ -2,6 +2,8 @@
 
 > TODO align to Open Religion Spec v1.0.0
 
+Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion.
+
 ## wtf
 
 - We're in a [sandbox]()
