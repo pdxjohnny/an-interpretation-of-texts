@@ -8,7 +8,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
 
 ## wtf
 
-- We're in a [sandbox]()
+- We're in a [sandbox](portland is indeed baby Dionysus's sandbox)
   - This is a sandbox of our own creation. We've self limited and renfocred limiting factors via built up "this is the way its always been done"
 - Gods are architypes which represent gamemasters.
   - Feeding these architypes through the activities of your life helps you understand and master the properties of these architypes yourself.
