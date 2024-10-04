@@ -46,3 +46,5 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 2. **Gnostic Pursuit of Inner Knowledge**: Drawing from Valentinian Gnosticism, there is a strong emphasis on personal spiritual knowledge (gnosis) as the path to enlightenment. Inspired by texts like Saying 22 of the Gospel of Thomas, this pillar encourages the unification of opposites and the transcendence of material illusions to realize one's inherent divinity.
 
 3. **Transformation Through Ecstatic Experience**: Influenced by Dionysian traditions, this pillar incorporates rituals and practices that involve ecstatic experiences, such as music, dance, or other forms of spiritual expression. These practices aim to transcend ordinary consciousness, facilitate personal transformation, and deepen the connection with the divine.
+
+> Walls of Speakers. However has ears let them hear DJ Alice spin if they will
