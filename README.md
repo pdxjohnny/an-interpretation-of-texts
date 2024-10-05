@@ -25,7 +25,10 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
 - 2024-10-03: God has no name
   - An Image: Any Image is an illusion or a deception or a play on itself because One cannot mirror God, for God has no name. One can only experiance God. Do what thou will and that better be the will of God motherfucker. So long as it is you'll be pretty fuckin OK.
   - God looking at God in an infinity mirror is what we're experiancing. It's the rough edges of light bouncing back and forth forever.
-  - What we see with our eyes day to day is a relfection of God. Whwn you see the trees you are not looking at God, but you are, because everything is God, but youre not, because God has no name. So what are you looking at? Well, all God.
+  - What we see with our eyes day to day is a relfection of God. Whwn you see the trees you are not looking at God, but you are, because everything is God, but youre not, because God has no name. So what are you looking at? Well, all God. - TODO the book from powels title
+- 2024-10-05: Montra Loop: A hacker's motto: Use the system to fight the system. Aikido.
+  - Use the first beast to first the first beast. what is capitalisms worst nightmare, abundance. if one make enough money one could give anything away for free to whoever wants it. everything you want all the time. free. free will.
+    - Who wants headphones? whoever has ears lets them hear.
 
 ## Notes
 
