@@ -23,7 +23,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
 
 ## Rate of Eipfiphany
 
-> 2024-10-06: Hit ♾️
+> 2024-10-05: Hit ♾️
 
 - 20??-??-??: It's all One
 - 2024-10-03: God has no name
