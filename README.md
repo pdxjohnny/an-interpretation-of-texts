@@ -42,7 +42,9 @@ Letters
 - [ ] To the north: If only we knew how plants worked
   - https://github.com/pdxjohnny/smartplanter
 - [ ] To the west: If only we has fishes
+  - Do not use the Lords name in vain: Never say damn: Undamn the damns?
 - [ ] To the east: If only we had loaves
+  - Farmland
 
 ## Notes
 
