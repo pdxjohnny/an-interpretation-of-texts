@@ -1,7 +1,5 @@
 # God has no name
 
-> Marian Dyonisan Valentinianism
-
 > TODO align to Open Religion Spec v1.0.0
 
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion.
@@ -14,7 +12,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
   - Feeding these architypes through the activities of your life helps you understand and master the properties of these architypes yourself.
   - Understanding of these tricks (if you will) and experiance applying them is how we sort of seed lady luck to help theses these happen more naturally over time.
 - https://pdxjohnny.github.io/gse30/
-  - Im out of the sandbox (yay layoffs). time to make this shit happen
+  - Im out of the sandbox (yay layoffs). time to make this shit happen. we need to get involed with a trustworth established church, farm, fishing networks. then cross polinate just like the rolling alice seeies documents with open source working group spec doc ideas but instead is solo sciptura style async comms for these plugin volenteer oppertunities we want to ensure exist in their supply chains to enable drive by contributions.
 
 ## Enlightenments
 
