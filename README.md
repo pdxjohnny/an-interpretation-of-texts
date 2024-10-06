@@ -4,6 +4,8 @@
 
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion.
 
+- [Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge](https://pdxjohnny.github.io/gse33/)
+
 ## wtf
 
 - We're in a [sandbox](https://localhost/PortlandIsIndeedBabyDionysusSandboxWeAreGodsDecievedNoMore)
