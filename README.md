@@ -1,6 +1,6 @@
 # God has no name
 
-> TODO align to Open Religion Spec v1.0.0
+> TODO align to Open Religion Spec v1.0.0. Idea's are free (public domain) for iteration by whomever. Fork and commit.
 
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion.
 
