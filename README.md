@@ -30,6 +30,19 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
   - Use the first beast to first the first beast. what is capitalisms worst nightmare, abundance. if one make enough money one could give anything away for free to whoever wants it. everything you want all the time. free. free will.
     - Who wants headphones? whoever has ears lets them hear.
 
+## Loaves and Fishes
+
+> Montra Loop: Use the system to fight the system
+
+We're gonna find a way to do what blackrock did with real estate and buy all the farms. Like a subscription food service where eventually its free because we bought all the farms.
+
+Letters
+
+- [ ] To the north: If only we knew how plants worked
+  - https://github.com/pdxjohnny/smartplanter
+- [ ] To the west: If only we has fishes
+- [ ] To the east: If only we had loaves
+
 ## Notes
 
 ## Memes
