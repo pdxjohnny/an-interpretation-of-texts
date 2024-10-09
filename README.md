@@ -176,6 +176,7 @@ index:
       - name: "Money"
         identified: true
         links:
+          - Discussion: https://github.com/pdxjohnny/religion/discussions/1
           - https://github (dot) com /ONYXCore/onyx
           - https://pdxjohnny.github.io/apoc_analysis_beast_1/
           - grep barter
