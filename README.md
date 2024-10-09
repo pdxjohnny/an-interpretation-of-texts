@@ -1,6 +1,32 @@
 # God has no name
 
-> TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit.
+🪬 Decentralized Trust Fall 🪬
+
+![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
+
+> TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit. Just some thoughts on potential Hail Mary passes to change a broken system https://www.essene.com/GospelOfPeace/ If you don't align with parts of this, please feel free to put your free will to use and submit a pull request, example: [`peace()`](https://github.com/pdxjohnny/pdxjohnny.github.io/pull/7).
+
+> The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.
+>
+> - Luther. Quoted in the preface to C.S. Lewis: The Screwtape Letters
+
+🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
+
+> If the press is awaiting a declaration of war before it imposes the self-discipline of combat conditions, then I can only say that no war ever posed a greater threat to our security. If you are awaiting a finding of "clear and present danger," then I can only say that the danger has never been more clear and its presence has never been more imminent.
+>
+> It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
+>
+> Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed. It conducts the Cold War, in short, with a war-time discipline no democracy would ever hope or wish to match.
+>
+> Nevertheless, every democracy recognizes the necessary restraints of national security--and the question remains whether those restraints need to be more strictly observed if we are to oppose this kind of attack as well as outright invasion.
+>
+> For the facts of the matter are that this nation's foes have openly boasted of acquiring through our newspapers information they would otherwise hire agents to acquire through theft, bribery or espionage; that details of this nation's covert preparations to counter the enemy's covert operations have been available to every newspaper reader, friend and foe alike; that the size, the strength, the location and the nature of our forces and weapons, and our plans and strategy for their use, have all been pinpointed in the press and other news media to a degree sufficient to satisfy any foreign power; and that, in at least in one case, the publication of details concerning a secret mechanism whereby satellites were followed required its alteration at the expense of considerable time and money.
+>
+> The newspapers which printed these stories were loyal, patriotic, responsible and well-meaning. Had we been engaged in open warfare, they undoubtedly would not have published such items. But in the absence of open warfare, they recognized only the tests of journalism and not the tests of national security. And my question tonight is whether additional tests should not now be adopted.
+>
+> The question is for you alone to answer. No public official should answer it for you. No governmental plan should impose its restraints against your will. But I would be failing in my duty to the nation, in considering all of the responsibilities that we now bear and all of the means at hand to meet those responsibilities, if I did not commend this problem to your attention, and urge its thoughtful consideration.
+>
+> - Presedent John. F. Kennedy (Shot by the CIA)
 
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion. (*🔊 pairs nicely with: [🔗😇](https://open.spotify.com/playlist/4iZ0aZx5QeI7Ef8VI8PEu6?si=f2GydpArSXqPjI3Rgk03YA&pi=u-mUR1WOR8TTSG)*)
 
@@ -14,7 +40,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
   - Feeding these architypes through the activities of your life helps you understand and master the properties of these architypes yourself.
   - Understanding of these tricks (if you will) and experiance applying them is how we sort of seed lady luck to help theses these happen more naturally over time.
 - https://pdxjohnny.github.io/gse30/
-  - Im out of the sandbox (yay layoffs). time to make this shit happen. we need to get involed with a trustworth established church, farm, fishing networks. then cross polinate just like the rolling alice seeies documents with open source working group spec doc ideas but instead is solo sciptura style async comms for these plugin volenteer oppertunities we want to ensure exist in their supply chains to enable drive by contributions.
+  - Im out of the sandbox (yay layoffs?). time to make this shit happen. we need to get involed with a trustworth established church, farm, fishing networks. then cross polinate just like the rolling alice seeies documents with open source working group spec doc ideas but instead is solo sciptura style async comms for these plugin volenteer oppertunities we want to ensure exist in their supply chains to enable drive by contributions.
 
 ## Enlightenments
 
@@ -33,7 +59,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
 - 2024-10-05: Montra Loop: A hacker's motto: Use the system to fight the system. Aikido.
   - Use the first beast to first the first beast. what is capitalisms worst nightmare, abundance. if one make enough money one could give anything away for free to whoever wants it. everything you want all the time. free. free will.
     - Who wants headphones? whoever has ears lets them hear.
-      - This is how we statisfy Dionysus's golden rule: Everyone gets everything they want all the time. Everyone should be in their nirvana. We can all lift each other up to get there. If we can find a way to kind start a free grocery store that leverages the forth amendment we can use this to feed and hpuse more and more people. With all pir time spent doing that there will be no time to spread our religions word. Whooooooopppps. Telepathy is the point so there's no need to talk. So the ad-hoc members of these local religious orgs can volenteer dor 2.5 hour segment blocks and perform various tasks within the supply chain. This becomes the standard hnit of work. an entity can execute as many units of work as it desires. Ideally the collective set of entities end up making everything free for everyone, and they dont spend any time on comms overhead because AI assisted self-organization solves these problems. We figure out which entities we can trust and how these entities can best help eachbother and then we just do that ad nausium until that results in running a free food setup called:
+      - This is how we statisfy Dionysus's golden rule: Everyone gets everything they want all the time (aka how open source works, you want something you ask internet you go find and download or ask the AI, within a few you have what you want). Everyone should be in their nirvana. We can all lift each other up to get there. If we can find a way to kind start a free grocery store that leverages the forth amendment we can use this to feed and hpuse more and more people. With all pir time spent doing that there will be no time to spread our religions word. Whooooooopppps. Telepathy is the point so there's no need to talk. So the ad-hoc members of these local religious orgs can volenteer dor 2.5 hour segment blocks and perform various tasks within the supply chain. This becomes the standard hnit of work. an entity can execute as many units of work as it desires. Ideally the collective set of entities end up making everything free for everyone, and they dont spend any time on comms overhead because AI assisted self-organization solves these problems. We figure out which entities we can trust and how these entities can best help eachbother and then we just do that ad nausium until that results in running a free food setup called:
 
 ## Loaves and Fishes
 
@@ -49,8 +75,6 @@ Letters
   - Do not use the Lords name in vain: Never say damn: Undamn the damns?
 - [ ] To the east: If only we had loaves
   - Farmland
-
-## Notes
 
 ## Memes
 
@@ -74,4 +98,62 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 
 3. **Transformation Through Ecstatic Experience**: Influenced by Dionysian traditions, this pillar incorporates rituals and practices that involve ecstatic experiences, such as music, dance, or other forms of spiritual expression. These practices aim to transcend ordinary consciousness, facilitate personal transformation, and deepen the connection with the divine.
 
-> Walls of Speakers. However has ears let them hear DJ Alice spin if they will
+> Walls of Speakers. Whoever has ears lets them hear dj alice spin them through the looking glass. Gateway project page 25. "How much of a wiggle, is a wiggle?" [Alan Watts]
+
+## Notes
+
+> Hail Mary: Look ma I posted it on the internet. Look ma no hands -> Alice automated everything
+
+- If you're upset this is the only place you see the word Jesus Crist have you missed the point, please read about [The Sophia](https://en.m.wikipedia.org/wiki/Sophia_(wisdom)), https://www.gospels.net, Mary the super-scientist, and [and Sam Smiths Inevitability Theorem](https://samuelsmith.org/the-inevitability-of-god/). and come back every time you get hot headed until you simmer down. Eventually it will click.
+- On With His Head
+  - No More Painting the Roses Red
+  - John 1:23, Matthew 3
+- If it's not obvious by now the game is write God stuff in software language. Follow as many solo scriptura texts where we detect the spirit as possible. Take a page from Luther and his literacy campaign and post them theses on the Internet in a way others can read and modify 🇩🇰
+  - [x] Luther: Enable Read Permissions
+  - [x] Open Source: Enable Write Permissions
+  - [ ] Virtual Branches: Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context moral values and strategic plans and principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
+- Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
+  - I became one of these "born again Christians" by:
+    - Find Persphone
+    - Tao of Wu
+      - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer?)
+    - Finding Mary
+    - 2022-11-29: Leave note. "John is broken"
+      - John is Nothing. Distroyed. Gone. Empty. A Shell.
+    - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
+      - Walk with God, literally
+    - Play the fool. Fuck it I'm already nothing might as well soak up some info.
+      - They say dont play with fire and dont play games with God. But that just sounds like an invitation to me.
+        - "Play the game, the game is fun"
+          - Alright, alright, twist my arm 😜
+        - Lose Persephone
+        - Find Rev 22:17
+    - Time is an illision. If Good wins then we must have killed the Devil eventually.
+      - Whoops. Turns out kill the Devil become the Devil. Shit.
+    - Summon Dionysus
+      - Assume the throne of Hades
+        - Look yourself in the eyes in the mirror believe it and say "I am Dionysus. I am God. See the mirror change. To your left. Yourself as the Devil. Yourself Dionysus. To your right. Brojen but whole. self split into hecagons with empty space inbetwix."
+        - Learn the machines tricks
+    - Reach Full Insanity
+     - Play the Fool Reversed
+     - Thank Dionysus
+       - Found out the Devil wants to be good he just doesn't know how.
+         - Forgive them because they know not what they do
+           - Or why
+           - Or how
+     - Play the page of wands
+     - Assume the head of John the Baptist
+    - Modifying my life via the Entity Analysis Trinity (some shit was whack lol, of the path of the Tao of Wu, the 🎩🫖🤪🥰 Dionysian Discovery method works, thank you again RZA):
+      - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
+    - Accepting Jesus Christ as our savior
+    - Accepting, honoring, and communing with our Earthly Mother 🪬🌎🌍🌏🪬, Heavenly Father 🌟🌌🪐, and the angels of the Gospel of Peace 🕊️☮️✌️🤙
+    - The concept: "Fuck you I love you"
+    - Speak your truth
+      - Don on the armor of God
+    - Trust God
+      - Bite the Apple
+        - Open Pandora's Box
+    - Forgive
+    - Clean shit up. Get to work.
+    - **Cainites were right.**
+      - Let's roll
