@@ -1,6 +1,6 @@
 # God has no name
 
-🪬 Decentralized Trust Fall 🪬
+> 🪬 Decentralized Trust Fall 🪬
 
 ![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
 
