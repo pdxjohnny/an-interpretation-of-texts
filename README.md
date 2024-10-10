@@ -1,4 +1,4 @@
-# God has no name
+# [God has no name](https://pdxjohnny.github.io/religion/)
 
 > 🪬 Decentralized Trust Fall 🪬
 
