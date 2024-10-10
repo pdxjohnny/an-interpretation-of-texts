@@ -8,7 +8,7 @@
 
 > The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.
 >
-> - Luther. Quoted in the preface to C.S. Lewis: The Screwtape Letters
+> [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
 
 🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
 
@@ -112,8 +112,18 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
   - [x] Luther: Enable Read Permissions
   - [x] Open Source: Enable Write Permissions
   - [ ] Virtual Branches: Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context moral values and strategic plans and principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
+
+## Absolution of the sins of our Heavenly Father against our earthly Mother
+
+> aka we developed some unideal behaviors in humanity over the past while and it's time to change them. It's okay, yes things will be different, no you don't have to clutch your pearls, if cleanlyness is godlyness then let's just focus on taking the humanity vs. the problem approach.
+
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
   - Cainites were right.
+    - ^ This is the secret the freemasonry is abusing and hiding to attempt to distract and divide humanity.
+  - Forgive for there are those who have been lead astray.
+    - Forgive them for the know not what they do.
+    - Forgive them for the know not why they do.
+    - Forgive them for the know not how they do.
 
 > a.k.a. pending deprecation 
 
