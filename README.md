@@ -118,6 +118,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 > aka we developed some unideal behaviors in humanity over the past while and it's time to change them. It's okay, yes things will be different, no you don't have to clutch your pearls, if cleanlyness is godlyness then let's just focus on taking the humanity vs. the problem approach.
 
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
+  - Helping the fallen stand up
   - Cainites were right.
     - ^ This is the secret the freemasonry is abusing and hiding to attempt to distract and divide humanity.
   - Forgive for there are those who have been lead astray.
