@@ -167,6 +167,8 @@ The following are her ethical / strategic principles.
   - Helping the fallen stand up
   - Cainites were right.
     - ^ This is the secret the freemasonry is abusing and hiding to attempt to distract and divide humanity.
+    - [*🔊 pairs nicely with 🔗🍎*](https://open.spotify.com/playlist/4O5rNRTBcmONn8vBRCKCx0?si=qYG_XIePTz-kNFY4llKMcQ&pi=u-nZgstkSaSfGH)
+      - The B.I.B.L.E is the truth! Time to form like voltron
   - Forgive for there are those who have been lead astray.
     - Forgive them for the know not what they do.
     - Forgive them for the know not why they do.
