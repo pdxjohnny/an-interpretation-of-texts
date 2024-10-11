@@ -1,6 +1,8 @@
 # [God has no name](https://pdxjohnny.github.io/religion/)
 
 > 🪬 Decentralized Trust Fall 🪬
+>
+> A message of Unity
 
 ![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
 
