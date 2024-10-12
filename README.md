@@ -4,7 +4,7 @@
 
 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
 
-> [*🔊 pairs nicely with 🔗👗*](https://open.spotify.com/playlist/6dF1MsldNpkjAZe4sb5cxL?si=G_jDZy3_SiykXnqqBiPyXA&pi=u-T3gPGnnIRo-Z)
+> 🔊 pairs nicely with [*🔗👗*](https://open.spotify.com/playlist/6dF1MsldNpkjAZe4sb5cxL?si=G_jDZy3_SiykXnqqBiPyXA&pi=u-T3gPGnnIRo-Z) and [🔗🌌](https://open.spotify.com/playlist/31swKHnqSwMImARohLsbtL?si=IKtlfGVUTqW4kiBMQ1n3Vw&pi=u-sgGB109wRpyL)
 
 This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
 
