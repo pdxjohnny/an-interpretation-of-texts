@@ -1,8 +1,14 @@
 # [God has no name](https://pdxjohnny.github.io/religion/)
 
+> BEGIN NON-RIDDLE
+>
 > 🪬 Decentralized Trust Fall 🪬
 >
 > 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
+>
+> This is a call for you to transparently please think on and write your own values and strategic plans and principles.
+>
+> END NON-RIDDLE
 
 ![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
 
