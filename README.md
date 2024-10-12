@@ -1,4 +1,4 @@
-# [God has no name](https://pdxjohnny.github.io/religion/)
+# [God has no name](https://pdxjohnny.github.io/chadig/)
 
 > BEGIN NON-RIDDLE
 >
@@ -6,11 +6,9 @@
 >
 > 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
 >
-> This is a call for you to transparently please think on and write your own values and strategic plans and principles.
+> This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
 >
-> “For years, religion did nothing but divide” let’s use it to unite.
->
-> When you ask ypur AI. Is XYZ chadig? It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
+> When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 >
 > END NON-RIDDLE
 
