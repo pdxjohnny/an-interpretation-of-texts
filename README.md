@@ -52,3 +52,4 @@ The following are my instance of Alice's values.
 ## Stratigic Plams and Principles
 
 - Defer to trusted human methodoligy oracles
+- Ideal per entity federation is between 4 and 33 wittnesses
