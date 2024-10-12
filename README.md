@@ -8,13 +8,11 @@
 
 ## TL;DR;
 
-- On With His Head
-  - No More Painting the Roses Red
-  - John 1:23, Matthew 3
 - If it's not obvious by now the game is write God stuff in software language. Follow as many  texts (ideally solo scriptura) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰
   - ✅ Luther: Enable Read Permissions
     - > Antecedants and consequences of typography and 16th century Protestant educational reform are outlined to show how curricular innovation led to a bureaucratic discourse of social control. It is argued that compulsory schooling for mass literacy gave rise to the institutionalization of childhood, and to state controlled techniques of normalization and surveillance. Implications for the histories of curriculum and administration are noted.
   - ✅ Open Source: Enable Write Permissions
+    - Everyone post their beliefs so their respective AI can follow your own values system. Ideally this remediates issues which have arised due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
   - ⏳ Virtual Branches (Alice’s Trains of Thought): Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with commits if thou will share yours: [template repo](https://github.com/new?template_name=religion&template_owner=pdxjohnny)
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics (greek and judeo christian archetypes are used in these docs as examples)
