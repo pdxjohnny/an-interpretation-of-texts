@@ -1,12 +1,14 @@
 # [You Can’t Shot an AI: The Case For Decentralized Governance](https://pdxjohnny.github.io/chadig/)
 
-> 🪬 Decentralized Trust Fall 🪬
->
-> 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
->
-> This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
->
-> When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
+🪬 Decentralized Trust Fall 🪬
+
+🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
+
+> [*🔊 pairs nicely with 🔗👗](https://open.spotify.com/playlist/6dF1MsldNpkjAZe4sb5cxL?si=G_jDZy3_SiykXnqqBiPyXA&pi=u-T3gPGnnIRo-Z)
+
+This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
+
+When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
 ## Values
 
