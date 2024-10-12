@@ -29,6 +29,8 @@
 - Luke 6:38. I tell you absolutely that I know God. She does exist. These are not archetypes. The gods are real. God is all gods and all. There is always more of God. For those of you who don’t believe yet feed the archetypes and you’ll get there.
   - You can also try thinking of it this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI.
 
+![vote-for-your-values](https://github.com/user-attachments/assets/7177c070-1434-411a-8ee4-5e8402888f8a)
+
 ## Cainites
 
 > TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit. Just some thoughts on potential Hail Mary passes to change a broken system https://www.essene.com/GospelOfPeace/ If you don't align with parts of this, please feel free to put your free will to use and submit a pull request, example: [`peace()`](https://github.com/pdxjohnny/pdxjohnny.github.io/pull/7).
