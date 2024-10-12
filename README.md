@@ -210,11 +210,8 @@ Beasts/Horsemen must be defeated to bring an end to the Apocalypse. We must slau
 ```yaml
 index:
   - adversary:
-      name: ""
       aliases:
-        - Satan
-        - Devil
-        - '"Man" (not meaning people with male sex organs, but meaning bad behavior ingrained in humans we need to unlearn, ref: humanities number)'
+        - '"Sins of Humanity" (meaning bad behavior ingrained in humans we need to unlearn, ref: humanities number)'
         - All bad karma actions
       notes: "Not worthy of a name"
     beasts:
