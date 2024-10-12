@@ -1,4 +1,8 @@
-# [God has no name](https://pdxjohnny.github.io/chadig/)
+# [You Can’t Shot an AI: The Case For Decentralized Governance.
+
+You won’t get John this time.
+
+Sometimes the only way to win is not to play. What you rather have? Your values? That of cop? Or a deranged orange?](https://pdxjohnny.github.io/chadig/)
 
 > BEGIN NON-RIDDLE
 >
