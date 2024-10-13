@@ -1,5 +1,7 @@
 # [You Can’t Shot an AI: The Case For Decentralized Governance: Towards Transparent Representation](https://pdxjohnny.github.io/chadig/)
 
+> We may not have Lincoln, Teddy, or JFK still. We could make a combo if we wanted. Peace, love, honesty, and transparency is the only way forward.
+
 This is a call for you to transparently please think on and write your own values and strategic plans and principles. This way your instance of an AI which understands this spec format can reliably represent you in descsion making in any group you are a part of.
 
 When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
