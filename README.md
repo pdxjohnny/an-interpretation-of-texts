@@ -10,6 +10,14 @@
 
 ---
 
+**References:**
+
+- https://www.essene.com/GospelOfPeace/peace2.html
+- https://www.gospels.net
+- https://www.gutenberg.org/cache/epub/10/pg10.txt
+
+---
+
 **Full Text:**
 
 **Introduction**
