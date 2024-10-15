@@ -1,4 +1,4 @@
-# Unveiling Deception: The New Covenant's Path to the Nameless Divine
+# The New Covenant's Path to the Nameless Divine
 
 **Abstract:**
 
