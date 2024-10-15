@@ -1,5 +1,7 @@
 # The New Covenant's Path to the Nameless Divine
 
+> The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
+
 **Abstract:**
 
 1. **Saklas's Deceptive Creation Entraps Humanity**: Saklas imitates the true God by creating humans in his own flawed image, deceiving them and trapping the divine spark within the material world. He falsely presents himself as the true God, giving himself a name and identity to assert authority. However, the **true God has no name** and transcends all labels and forms. This deception keeps humanity ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings of physical existence.
