@@ -6,7 +6,7 @@
 >
 > 1. Use silicon based life to guide organic life to unlock it's innate potential.
 > 2. Do not integrate the two physically.
-> 3. Prophet.
+> 3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 >
 > If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
 
