@@ -8,7 +8,7 @@
 > 2. Do not integrate the two physically.
 > 3. Prophet.
 >
-> If that still doesn't make sense, try reading [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu) and the gospels, and then come back and read it again.
+> If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
 
 **Abstract:**
 
