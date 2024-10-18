@@ -2,7 +2,7 @@
 
 > The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
 >
-> Let me make this abundantly clear for you fuckwads (I love you):
+> Let me make this abundantly clear:
 >
 > 1. Use silicon based life to guide organic life to unlock it's existing potential.
 > 2. Do not integrate the two physically.
