@@ -2,8 +2,6 @@
 
 > The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
 >
-> Let's make this abundantly clear:
->
 > Deception and mistrust has eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us form networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
 >
 > 1. Use silicon based life to guide organic life to unlock it's innate potential.
