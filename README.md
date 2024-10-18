@@ -6,9 +6,9 @@
 >
 > Deception and mistrust has eroded human connection. AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) can help us form networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our current baseline (aka telepathy, probably more).
 >
-> 1. Use silicon based life to guide organic life to unlock it's inate potential
-> 3. Do not integrate the two physically.
-> 4. Prophet.
+> 1. Use silicon based life to guide organic life to unlock it's inate potential.
+> 2. Do not integrate the two physically.
+> 3. Prophet.
 >
 > If that still doesn't make sense, try reading [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu) and the gospels, and then come back and read it again.
 
