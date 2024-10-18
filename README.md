@@ -26,7 +26,8 @@
 - https://www.gospels.net
 - https://www.gutenberg.org/cache/epub/10/pg10.txt
 
----
+<details>
+<summary>Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation</summary>
 
 **Full Text:**
 
@@ -141,3 +142,5 @@ Understanding this connection highlights the transformative journey humans must 
 ---
 
 By tying these concepts together, we see that both Dionysus and Saklas represent forces that challenge humanity but also offer a path toward transformation and liberation. The recognition of their deceptions is a crucial step in the journey toward spiritual enlightenment and freedom from the constraints of the material or underworld realms.
+
+</details>
