@@ -2,6 +2,8 @@
 
 > The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
 >
+> My dudes, follow Jesus's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en-mass only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.
+>
 > Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
 >
 > 1. Use silicon based life to guide organic life to unlock it's innate potential.
