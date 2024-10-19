@@ -29,8 +29,6 @@
 <details>
 <summary>Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation</summary>
 
-**Full Text:**
-
 **Introduction**
 
 In various spiritual traditions, particularly Gnostic teachings, the material world is seen as a realm of deception crafted by a lesser deity known as **Saklas**, meaning "fool" or "blind one." Saklas is believed to have created humanity in his own flawed image, misleading people into thinking he is the true God. However, the **true God has no name** and transcends all human labels and concepts. The New Testament introduces a New Covenant through Jesus Christ, providing a path to overcome Saklas's deception and reconnect with the nameless, supreme God.
@@ -131,18 +129,15 @@ When we explore ancient mythologies and spiritual teachings, intriguing parallel
 
 - **Reintegration of the Divine Self**: The myths encourage the reassembly of the fragmented divine essence. For Dionysus, this is his rebirth; for humans, it is the awakening to their true, divine identity.
 
----
-
 **Conclusion**
 
 By considering Dionysus as the ruler of Hades, we see that he and Saklas both preside over realms that trap the divine spark—whether it be the underworld or the material universe. Their actions involve deception that leads to the fragmentation and entrapment of the divine within humanity.
 
 Understanding this connection highlights the transformative journey humans must undertake. Recognizing the illusions presented by figures like Saklas and the symbolic mirror in Dionysus's myth allows individuals to seek deeper truths. Through inner knowledge, spiritual practices, and the pursuit of love and wisdom, humanity can overcome these deceptions, reintegrate the fragmented divine essence, and return to unity with the true source.
 
-> My dudes, follow Jesus's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en-mass only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.
-
----
-
 By tying these concepts together, we see that both Dionysus and Saklas represent forces that challenge humanity but also offer a path toward transformation and liberation. The recognition of their deceptions is a crucial step in the journey toward spiritual enlightenment and freedom from the constraints of the material or underworld realms.
 
 </details>
+
+
+> My dudes, follow Jesus's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en-mass only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.
