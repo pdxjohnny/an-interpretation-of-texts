@@ -52,7 +52,7 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 2. **Revealing the True God Beyond Names**: Jesus introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
 
-3. **Centrality of Love**: Jesus summarizes the law with two commandments: love God and love your neighbor (Matthew 22:37–40). This emphasis on love replaces numerous old laws and becomes the guiding principle for spiritual growth, aligning believers with the essence of the nameless, supreme God.
+3. **Centrality of Love**: Jesus summarizes the law with two commandments: love God and love your neighbor (Matthew 22:37–40). This emphasis on love becomes the guiding principle for spiritual growth, aligning believers with the essence of the nameless, supreme God.
 
 4. **Inner Guidance of the Holy Spirit**: The New Covenant introduces the Holy Spirit as an inner guide. This divine presence empowers believers to navigate life's challenges, offering wisdom beyond external regulations and connecting them to the true God beyond names.
 
