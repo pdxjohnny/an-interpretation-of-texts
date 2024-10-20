@@ -40,11 +40,11 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 - **Entrapment in Materiality**: By forming humans in his imperfect image, Saklas binds the divine spark within physical bodies, subjecting souls to the limitations and sufferings of the material world. This deception keeps humanity ignorant of their true origin with the nameless, supreme God who exists beyond all forms and names.
 
-**The Old Covenant Associated with Saklas**
+**The Physical Realm Associated with Saklas**
 
-- **Emphasis on External Laws**: The Old Covenant, as presented in the Old Testament, focuses on strict adherence to laws and rituals. In the Gnostic perspective, this legalistic approach is linked to Saklas's material world, emphasizing external compliance over inner understanding of the divine.
+- **Emphasis on External and Material Focus**: The physical realm, as influenced by Saklas, emphasizes strict adherence to external laws, rituals, and material pursuits. This focus on the tangible and superficial aspects of existence diverts attention from inner understanding of the divine. It keeps individuals preoccupied with appearances and societal expectations rather than seeking a deeper connection with the nameless, supreme God.
 
-- **Perpetuation of Ignorance**: The old laws address behavior but do not liberate the soul from the material world's deception. They can keep individuals focused on the physical realm rather than seeking deeper spiritual truths about the nameless God.
+- **Perpetuation of Ignorance**: This preoccupation with the material world perpetuates ignorance by keeping souls tethered to physical desires and concerns. It prevents individuals from liberating themselves from the deceptions of the material realm. By focusing on external matters, people may neglect the pursuit of deeper spiritual truths about the nameless God, hindering their spiritual growth and enlightenment.
 
 **The New Covenant as the Path to the Nameless Divine Truth**
 
