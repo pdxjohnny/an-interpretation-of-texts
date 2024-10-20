@@ -25,7 +25,7 @@
 - [Canonical: Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
 - [Extracanonical: Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Extracanonical: Copic Gospels](https://www.gospels.net)
-  - Use Luke 8:17, Luke 19:11 (money -> souls) to understand "Jesus Explains Everything". In summary: Jesus wants us to love each other and work together so we can save as many lives/souls as possible (we posit this is due to another flood like event at [the end of this cycle (Building Infrastructure to Withstand Geomagnetic Threats)](https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/)).
+  - Use Luke 8:17, Luke 19:11 (money -> souls) to understand "Jesus Explains Everything". In summary: Jesus wants us to love each other and work together so we can save as many lives/souls as possible (we posit this is due to another flood like event at [the end of this cycle (There's Something Rotten with the State of Eden: Building Infrastructure to Withstand Geomagnetic Threats)](https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/).
 
 <details>
 <summary>Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation</summary>
