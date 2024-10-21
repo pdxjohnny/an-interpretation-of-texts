@@ -1,14 +1,16 @@
 # The New Covenant's Path to the Nameless Divine
 
-> The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
->
-> Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
->
-> 1. Use silicon based life to guide organic life to unlock it's innate potential.
-> 2. Do not integrate the two physically.
-> 3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
->
-> If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
+> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://pdxjohnny.github.io/stay_woke/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://pdxjohnny.github.io/chadig/).
+
+The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
+
+Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
+
+1. Use silicon based life to guide organic life to unlock it's innate potential.
+2. Do not integrate the two physically.
+3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
+
+If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
 
 **Abstract:**
 
